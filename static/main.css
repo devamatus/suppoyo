@@ -1,0 +1,95 @@
+html, body {
+    height: 100%;
+  }
+  
+  body {
+        max-width: 800px;
+        background-color: #fdfdfd;
+        font-family: 'Work Sans', sans-serif;
+        margin: 0 auto;
+        line-height: 1.7;
+        font-size: 20px;
+        color: #333;
+        padding: 2em 1em;
+        text-rendering: optimizeLegibility;
+        height: 100%;
+        
+    }
+
+    a {
+        color: #ff081d;
+        text-decoration: none;
+    }
+    
+    a:hover 
+    {
+        text-decoration:none; 
+        cursor:pointer;  
+    }
+  
+    h1,h2,h3,h4,h5,h6 {
+        font-family: 'Montserrat', sans-serif;
+         font-weight: bold;
+         font-size: 35;
+         line-height: 1.8;
+         margin: 0;
+    }
+
+li {
+    display: inline;
+    margin-right: 20px;
+}
+
+img {
+     max-width: 100%;
+}
+        
+
+.button1 {
+        background-color: #ff081d; 
+        border-radius: 4px;
+        color: white;
+        padding: 10px 26px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 14px;
+        margin: 3px 1.5px;
+}
+
+
+.reg {
+    background-color: #ff081d; 
+    border-radius: 2px;
+    color: white;
+    padding: 10px 26px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 18px;
+    margin: 3px 1.5px;
+}
+
+.message {
+    font-family: 'Work Sans', sans-serif;
+    color: #ff081d;
+}
+
+.registration-form {
+    width:  800px;
+}
+
+.input-form {
+    margin: 0 auto;
+    font-family: 'Work Sans', sans-serif;
+    width:  500px;
+    height: 26px;
+    font-size: 14pt;
+}
+.blur {
+    color: transparent;
+    text-shadow: 0 0 5px rgba(0,0,0.0,0.8);
+ }
+
+
+  
