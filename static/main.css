@@ -22,7 +22,7 @@ html, body {
     }
     
     a:hover 
-    {
+    {   color: #333;
         text-decoration:none; 
         cursor:pointer;  
     }
